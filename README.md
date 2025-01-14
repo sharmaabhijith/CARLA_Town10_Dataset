@@ -29,6 +29,8 @@ This dataset has been utilized in the original research paper to train the YOLOv
 
 ---
 
+Download dataset by navigating to this page: [CARLA Town 10 Dataset](https://sharmaabhijith.github.io/CARLA_Town10_Dataset/)
+
 ## Citation
 If you find our dataset useful in your research, please consider citing our work:
 
