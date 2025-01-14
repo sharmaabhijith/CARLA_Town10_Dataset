@@ -1,4 +1,5 @@
 # CARLA Town 10 Dataset
+Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios
 
 ![Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios](static/images/catt.png)
 
