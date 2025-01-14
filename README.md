@@ -1,5 +1,5 @@
 # CARLA Town 10 Dataset
-Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios
+Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios. Download dataset by navigating to this page: [CARLA Town 10 Dataset](https://sharmaabhijith.github.io/CARLA_Town10_Dataset/)
 
 ![Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios](static/images/catt.png)
 
@@ -28,8 +28,6 @@ The CARLA Town 10 Dataset is a photo-realistic dataset created using the CARLA s
 This dataset has been utilized in the original research paper to train the YOLOv5 model and test adversarial patches.
 
 ---
-
-Download dataset by navigating to this page: [CARLA Town 10 Dataset](https://sharmaabhijith.github.io/CARLA_Town10_Dataset/)
 
 ## Citation
 If you find our dataset useful in your research, please consider citing our work:
