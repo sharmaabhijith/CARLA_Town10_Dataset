@@ -1,39 +1,57 @@
-# CARLA Town 10 Dataset
+# CARLA Town 10 Dataset (CART)
 
-Sample images from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios.
+### **Overview**
+The CARLA Town 10 Dataset (CART) is a high-definition, photo-realistic dataset created using the CARLA simulator in Town 10. Designed to replicate realistic scenarios, this dataset is ideal for research on object detection, autonomous driving, and adversarial testing.  
 
-Download dataset by navigating to this page: [CARLA Town 10 Dataset](https://sharmaabhijith.github.io/CARLA_Town10_Dataset/)
-
-![Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios](static/images/catt.png) 
-
-## Dataset Description
-The CARLA Town 10 Dataset is a photo-realistic dataset created using the CARLA simulator in Town 10. This dataset is designed for tasks like object detection, autonomous driving research, and adversarial testing. Below are the key details:
-
-- **Total Images**: 4500 (Train: ~4300, Validation: ~200)
-- **Image Resolution**: 1280×720 pixels
-- **Classes**:
-  - Person
-  - Vehicle
-  - Motorbike
-  - Traffic Light
-  - Stop Sign
-- **Scenario**: 
-  - Data collected using autopilot driving in CARLA's Town 10, featuring a moving camera.
-- **Environmental Diversity**:
-  - Lighting: Noon, Sunset, Night
-  - Weather: Rain, Clear, Fog
-- **Traffic Level**:
-  - Moderate traffic with approximately 40 vehicles and 70 pedestrians in the map.
-- **Annotations**:
-  - Labels available in YOLO format.
-  - Annotations performed using the [CVAT tool](https://www.cvat.ai/).
-
-This dataset has been utilized in the original research paper to train the YOLOv5 model and test adversarial patches.
+### **Download**  
+Download the dataset here: [**CARLA Town 10 Dataset**](https://sharmaabhijith.github.io/CARLA_Town10_Dataset/)
 
 ---
 
-## Citation
-If you find our dataset useful in your research, please consider citing our work:
+![Sample image frames from the CARLA Town 10 (CART) dataset](static/images/catt.png)  
+*Sample image frames from CARLA Town 10. Town 10 replicates realistic urban environments.*
+
+---
+
+## **Dataset Description**
+### **Key Details**
+- **Total Images**: 4500  
+  - Training Set: ~4300 images  
+  - Validation Set: ~200 images  
+- **Image Resolution**: 1280×720 pixels  
+
+### **Classes**  
+The dataset includes annotations for the following object classes:
+- **Person**  
+- **Vehicle**  
+- **Motorbike**  
+- **Traffic Light**  
+- **Stop Sign**  
+
+### **Scenario**
+- Data was collected using autopilot driving in CARLA’s Town 10.
+- The scenario features a **moving camera**, simulating realistic autonomous vehicle perspectives.
+
+### **Environmental Diversity**
+The dataset captures a variety of environmental conditions to enhance robustness:
+- **Lighting**: Noon, Sunset, Night  
+- **Weather**: Rain, Clear, Fog  
+
+### **Traffic Level**
+- Moderate traffic, featuring approximately:  
+  - **40 vehicles**  
+  - **70 pedestrians**  
+
+### **Annotations**
+- **Format**: YOLO  
+- **Tool Used**: [CVAT](https://www.cvat.ai/)  
+
+This dataset has been extensively used in the original research paper for training YOLOv5 models and evaluating adversarial patches.
+
+---
+
+## **Citation**
+If you use this dataset in your research, please consider citing our work:
 
 ```bibtex
 @article{sharma2024avatar,
