@@ -1,4 +1,4 @@
-# CARLA Town 10 Dataset (CART)
+# CARLA Dataset
 
 ### **Overview**
 The CARLA Town 10 Dataset (CART) is a high-definition, photo-realistic dataset created using the CARLA simulator in Town 10. Designed to replicate realistic scenarios, this dataset is ideal for research on object detection, autonomous driving, and adversarial testing.  
