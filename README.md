@@ -1,9 +1,10 @@
 # CARLA Town 10 Dataset
-Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios. 
 
 Download dataset by navigating to this page: [CARLA Town 10 Dataset](https://sharmaabhijith.github.io/CARLA_Town10_Dataset/)
 
 ![Sample image frames from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios](static/images/catt.png)
+
+Sample images from the CART (CARLA Town 10) dataset. Town 10 is the HD map in CARLA, replicating realistic scenarios. 
 
 ## Dataset Description
 The CARLA Town 10 Dataset is a photo-realistic dataset created using the CARLA simulator in Town 10. This dataset is designed for tasks like object detection, autonomous driving research, and adversarial testing. Below are the key details:
